@@ -8,7 +8,7 @@
   </parent>
   <groupId>de.matrixweb.maven.plugins.relocator</groupId>
   <artifactId>relocator-maven-plugin</artifactId>
-  <version>0.5.0</version>
+  <version>0.6.0-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>relocator-maven-plugin</name>
